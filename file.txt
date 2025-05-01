@@ -1,0 +1,2 @@
+Yo... this is my first time in python.
+I am learning file handling operations in python.
